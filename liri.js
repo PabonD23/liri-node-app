@@ -96,7 +96,6 @@ var pick = function(caseData, functionData){
     case 'my-tweets':
         getMyTweets();
         break;
-
     case 'spotify-this-song':
         getMeSpotify(functionData);
         break;
