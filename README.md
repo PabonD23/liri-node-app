@@ -55,6 +55,18 @@ Developed during a rigorous Coding Bootcamp. The condtions of this homework was 
 
     * Takes the text from random.txt and runs the song through the spotify-this-song command.
 
+
+## Examples
+![LIRI-NODE-APP](my-Tweets.png)
+
+![LIRI-NODE-APP](movie-this.png)
+
+![LIRI-NODE-APP](Spotify-this-song.png)
+
+![LIRI-NODE-APP](random.txt.png)
+
+
+
 ## Build with
 
     -  Visual Studio Code
