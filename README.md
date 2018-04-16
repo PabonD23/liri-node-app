@@ -14,13 +14,13 @@ Developed during a rigorous Coding Bootcamp. The condtions of this homework was 
 
 ## Prerequisites
 
-    *  Node.js
-    *  Twitter NMP Package
-    *  Spotify NPM Package
-    *  Request NPM Package
-    *  Node Modules
-    *  Package.JSON
-    *  Javascript
+    -  Node.js
+    -  Twitter NMP Package
+    -  Spotify NPM Package
+    -  Request NPM Package
+    -  Node Modules
+    -  Package.JSON
+    -  Javascript
     
 
 
