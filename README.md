@@ -4,7 +4,7 @@
 
 Developed during a rigorous Coding Bootcamp. The condtions of this homework was to create a LIRIBOT (iPhone's SIRI, but takes in commands through Language Interpretation vs Speech Interpretation) using Node JS. LIRI is a program that interacts with one of four instructions to perform specific parameters and returns data. The four commands are:
 
-    -  'my-tweets'
+    *  'my-tweets'
 
     -  'spotify-this-song'
 
@@ -26,18 +26,18 @@ Developed during a rigorous Coding Bootcamp. The condtions of this homework was 
 
 ## What Each Command Does
 
-1. 'node liri.js my-tweets'
+1. `node liri.js my-tweets`
 
     * LIRI displays the last 20 tweets created on my twitter account in the terminal or bash window.
 
-2. 'node liri.js spotify-this-song <song name>'
+2. `node liri.js spotify-this-song <song name>`
     * Shows the following information about the song in your terminal or bash window.
         * Artist(s)
         * The song's name 
         * A preview link of the song from Spotify
         * The album that the song is from
 
-3.  'node liri.js movie-this <movie name>'
+3.  `node liri.js movie-this <movie name>`
 
     * Will output the following information to your terminal or bash window about the movie you've selected:
 
@@ -51,13 +51,13 @@ Developed during a rigorous Coding Bootcamp. The condtions of this homework was 
         * Rotten Tomatoes Rating
         * Rotten Tomatoes URL
 
-4. 'node liri.js do-what-it-says'
+4. `node liri.js do-what-it-says`
 
     * Takes the text from random.txt and runs the song through the spotify-this-song command.
 
 ## Build with
 
-    -  Visual Studio Code
+    *  Visual Studio Code
 
 ## Copyright
 
