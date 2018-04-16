@@ -67,7 +67,7 @@ Developed during a rigorous Coding Bootcamp. The condtions of this homework was 
 
 
 
-## Build with
+## Built with
 
     -  Visual Studio Code
 
