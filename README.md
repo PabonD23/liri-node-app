@@ -4,23 +4,23 @@
 
 Developed during a rigorous Coding Bootcamp. The condtions of this homework was to create a LIRIBOT (iPhone's SIRI, but takes in commands through Language Interpretation vs Speech Interpretation) using Node JS. LIRI is a program that interacts with one of four instructions to perform specific parameters and returns data. The four commands are:
 
-    * 'my-tweets'
+    *  'my-tweets'
 
-    * 'spotify-this-song'
+    *  'spotify-this-song'
 
-    * 'movie-this'
+    *  'movie-this'
 
-    * 'do-what-it-says'
+    *  'do-what-it-says'
 
 ## Prerequisites
 
-    * Node.js
-    * Twitter NMP Package
-    * Spotify NPM Package
-    * Request NPM Package
-    * Node Modules
-    * Package.JSON
-    * Javascript
+    *  Node.js
+    *  Twitter NMP Package
+    *  Spotify NPM Package
+    *  Request NPM Package
+    *  Node Modules
+    *  Package.JSON
+    *  Javascript
     
 
 
@@ -57,7 +57,7 @@ Developed during a rigorous Coding Bootcamp. The condtions of this homework was 
 
 ## Build with
 
-    * Visual Studio Code
+    *  Visual Studio Code
 
 ## Copyright
 
