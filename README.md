@@ -1,6 +1,6 @@
 # LiriBot 
 
-##Description
+## Description
 
 Developed during a rigorous Coding Bootcamp. The condtions of this homework was to create a LIRIBOT (iPhone's SIRI, but takes in commands through Language Interpretation vs Speech Interpretation) using Node JS. LIRI is a program that interacts with one of four instructions to perform specific parameters and returns data. The four commands are:
 
@@ -12,7 +12,7 @@ Developed during a rigorous Coding Bootcamp. The condtions of this homework was 
 
     * 'do-what-it-says'
 
-###Prerequisites
+## Prerequisites
 
     * Node.js
     * Twitter NMP Package
@@ -24,7 +24,7 @@ Developed during a rigorous Coding Bootcamp. The condtions of this homework was 
     
 
 
-#### What Each Command Does
+## What Each Command Does
 
 1. 'node liri.js my-tweets'
 
@@ -55,11 +55,11 @@ Developed during a rigorous Coding Bootcamp. The condtions of this homework was 
 
     * Takes the text from random.txt and runs the song through the spotify-this-song command.
 
-#####Build with
+## Build with
 
     * Visual Studio Code
 
-######Copyright
+## Copyright
 
 (C) Danielle Pabón 2018. All Rights Reserved.
 
